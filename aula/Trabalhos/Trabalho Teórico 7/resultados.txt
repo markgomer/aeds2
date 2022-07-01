@@ -1,0 +1,104 @@
+Movimentacao no.1: 4
+Comparacao no.1: 4 <--> 4
+Comparacao no.2: 4 <--> 8
+Movimentacao no.2: 8
+Comparacao no.3: 8 <--> 2
+Comparacao no.4: 8 <--> 14
+Movimentacao no.3: 14
+Comparacao no.5: 14 <--> 17
+Movimentacao no.4: 17
+Comparacao no.6: 17 <--> 6
+Comparacao no.7: 17 <--> 18
+Movimentacao no.5: 18
+Comparacao no.8: 18 <--> 10
+Comparacao no.9: 18 <--> 16
+Comparacao no.10: 18 <--> 15
+Comparacao no.11: 18 <--> 5
+Comparacao no.12: 18 <--> 13
+Movimentacao no.6: 0
+Movimentacao no.7: 0
+Movimentacao no.8: 0
+Movimentacao no.9: 0
+Movimentacao no.10: 0
+Movimentacao no.11: 0
+Movimentacao no.12: 0
+Movimentacao no.13: 0
+Movimentacao no.14: 0
+Movimentacao no.15: 0
+Movimentacao no.16: 0
+Movimentacao no.17: 0
+Movimentacao no.18: 0
+Movimentacao no.19: 0
+Movimentacao no.20: 0
+Movimentacao no.21: 0
+Movimentacao no.22: 0
+Movimentacao no.23: 0
+Movimentacao no.24: 0
+Movimentacao no.25: 0
+Movimentacao no.26: 0
+Movimentacao no.27: 0
+Movimentacao no.28: 0
+Movimentacao no.29: 0
+Movimentacao no.30: 0
+Movimentacao no.31: 0
+Movimentacao no.32: 0
+Movimentacao no.33: 0
+Movimentacao no.34: 0
+Movimentacao no.35: 0
+Movimentacao no.36: 0
+Movimentacao no.37: 0
+Movimentacao no.38: 1
+Movimentacao no.39: 0
+Movimentacao no.40: 1
+Movimentacao no.41: 1
+Movimentacao no.42: 1
+Movimentacao no.43: 0
+Movimentacao no.44: 1
+Movimentacao no.45: 0
+Movimentacao no.46: 1
+Movimentacao no.47: 0
+Movimentacao no.48: 0
+Movimentacao no.49: 1
+Movimentacao no.50: 1
+Movimentacao no.51: 1
+Movimentacao no.52: 1
+Movimentacao no.53: 1
+Movimentacao no.54: 1
+Movimentacao no.55: 0
+Movimentacao no.56: 7
+Movimentacao no.57: 0
+Movimentacao no.58: 3
+Movimentacao no.59: 0
+Movimentacao no.60: 9
+Movimentacao no.61: 0
+Movimentacao no.62: 10
+Movimentacao no.63: 0
+Movimentacao no.64: 6
+Movimentacao no.65: 0
+Movimentacao no.66: 12
+Movimentacao no.67: 0
+Movimentacao no.68: 4
+Movimentacao no.69: 0
+Movimentacao no.70: 11
+Movimentacao no.71: 0
+Movimentacao no.72: 8
+Movimentacao no.73: 0
+Movimentacao no.74: 1
+Movimentacao no.75: 0
+Movimentacao no.76: 5
+Movimentacao no.77: 0
+Movimentacao no.78: 2
+Movimentacao no.79: 4
+Movimentacao no.80: 8
+Movimentacao no.81: 2
+Movimentacao no.82: 14
+Movimentacao no.83: 17
+Movimentacao no.84: 6
+Movimentacao no.85: 18
+Movimentacao no.86: 10
+Movimentacao no.87: 16
+Movimentacao no.88: 15
+Movimentacao no.89: 5
+Movimentacao no.90: 13
+Tempo para ordenar: 0.082 s.
+isOrdenado: true

@@ -1,16 +1,21 @@
-# AEDII
+# Algoritmos e Estrutura de Dados II
+
 Repositório de códigos da disciplina de Algoritmos e Estrutura de Dados II
 
-## Ajuda
+### Aula
 
-[Readme.md com os principais comandos.](fonte/ajuda/README.md)
+Arquivos fornecidos na aula e exercícios.
 
-## fonte
+### Fonte
 
-## labs
-Ativdades dos laboratórios.
+Códigos fornecidos na aula.
 
+### labs
 
-## tps
+Aula de laboratório para o início da disciplina.
+
+### tps
+
+Trabalhos práticos.
 
 

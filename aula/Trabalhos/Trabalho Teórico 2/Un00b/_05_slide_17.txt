@@ -1,0 +1,19 @@
+// os nomes dos métodos e das variáveis estão bem discriminados, sendo fácil saber a função de cada elemento
+
+
+Unidade recuperarUnidadeComCodigoDeUCI(Unidade unidadeFilha) {
+
+Unidade retorno = null;
+
+if (unidadeFilha.getCodUci() != null && !unidadeFilha.getCodUci().isEmpty()) {
+retorno = unidadeFilha;
+} else {
+retorno = unidadeFilha.getUnidadeSuperior();
+}
+while (retorno == null || retorno.getCodUci() == null || retorno.getCodUci().isEmpty()) {
+retorno = retorno.getUnidadeSuperior();
+}
+return retorno;
+}
+
+

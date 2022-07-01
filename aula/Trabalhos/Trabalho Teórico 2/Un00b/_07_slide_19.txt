@@ -1,0 +1,13 @@
+• O que o programa abaixo mostra na tela?
+
+byte b = 0; short s = 0; int i = 0; long l = 0;
+while (true){
+b++; s++; i++; l++;
+System.out.println(b + “ ” + s + “ ” + i + “ ” + l);
+} 
+
+
+R.: 1 1 1 1
+    2 2 2 2
+    3 3 3 3
+    ... infinitamente

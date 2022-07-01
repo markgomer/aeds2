@@ -1,0 +1,12 @@
+• Qual é a diferença entre os dois métodos abaixo?
+
+int m1(int i){
+return i--;
+}
+
+int m2(int i){
+return --i;
+}
+
+
+R.: no primeiro caso a função retornará o valor de i antes de ser decrementado, enquanto no segundo a função decrementará o valor de i antes de retornar. 

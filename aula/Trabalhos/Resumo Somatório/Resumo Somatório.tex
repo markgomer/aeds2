@@ -1,0 +1,52 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+\usepackage{graphicx,url}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage[latin1]{inputenc}  
+\usepackage[greek]{babel} 
+\usepackage{alphabeta}
+
+\sloppy
+
+\title{Resumo Somatórios}
+
+\author{696809 -- Marco Aurélio Silva de Souza Júnior}
+
+\address{Faculdade de Ciência da Comutação -- PUC Minas\\ Av. Dom José Gaspar, 500, Coração Eucarístico - Belo Horizonte - MG, Brasil}
+
+\begin{document} 
+
+\maketitle
+
+\section{Definição}
+Somatórios são operadores matemáticos usados para simplificar uma sucessão de adições, finita ou infinita, com parcelas que respeitam algum padrão entre si. São denotados pela letra grega sigma maiúsculo ( $\sum_$ ).
+
+Sua definição pode ser exposta como:
+
+$\sum_{i=m}^{n}x_i = x_m + x_{m+1} + x_{m+2} + ... + x_{n-1} + x_n$\\
+\\
+Onde:
+
+\emph{$x_{i}$}: variável indexada que representa cada termo do somatório;\par
+\emph{m}: índice inicial;\par
+\emph{n}: índice final; e\par
+\emph{i}: índice do somatório, onde o primeiro valor de \textbf{i} é \textbf{m} e o último é \textbf{n}.
+
+\section{Algumas propriedades}
+\begin{enumerate}
+    \item $\sum_{i=m}^{n}\alpha . x_i = \alpha \sum_{i=m}^{n}x_i$.
+    \item $\sum_{i=m}^{n}(x_i \pm y_i) = \sum_{i=m}^{n}x_i \pm \sum_{i=m}^{n}x_i$.
+    \item $\sum_{i=m}^{m}x_i = x_m$.
+    \item $\sum_{i=m}^{n}x_i = \sum_{i=m}^{p}x_i + \sum_{i=p+1}^{n}x_i,  \forall m \leq p \leq n$.
+    \item $\sum_{i=m}^{n} = \sum_{i=m+p}^{n+p}x_{i-p}$.
+    \item $\sum_{i=m}^{n}(x_{i+1} - x_i) = x_{n+1} - x_m$.
+    \item $\sum_{i=m}^{n} \sum_{j=k}^{l}x_i.y_i = \sum_{i=m}^{n}x_i\sum_{j=k}^{l}y_i$.
+    \item $|\sum_{i=m}^{n}x_i| \leq \sum_{i=m}^{n}|x_i|$.
+    \item $\sum_{n=0}^{t}x_{2n} + \sum_{n=0}^{t}x_{2n+1} = \sum_{n=0}^{2t+1}x_n$.
+    \item $\sum_{n=0}^{t} \sum_{i=0}^{z-1} x_{z.n+i} = \sum_{n=0}^{z.t+z-1}x_n$.
+    \item $(\sum_{k=0}^{n}a_k).(\sum_{k=0}^{n}b_k) = \sum_{k=0}^{2n}\sum_{i=0}^{k}a_i b_{k-i} - \sum_{k=0}^{n-1}(a_k \sum_{i=n+1}^{2n-k}b_i + b_k \sum_{i=n+1}^{2n-k}a_i)$.
+\end{enumerate}
+
+\end{document}

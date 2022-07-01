@@ -1,0 +1,17 @@
+• Qual será o resultado da execução do programa ExemploMyIO?
+
+• Se java ExemploMyIO, o programa lê do teclado e escreve na tela
+  Sua string: xxxx
+  Seu inteiro: 000
+  Seu real: 0.000
+  Seu caractere: x
+
+• Se java ExemploMyIO < in.txt, ele lê o arquivo in.txt e escreve na tela
+(in.txt contém uma string, inteiro, real e caractere, respectivamente)
+  O programa irá ler as informações contidas em in.txt e escrever na tela.
+
+• Se java ExemploMyIO > out.txt, ele lê do teclado e escreve em out.txt
+  Escreve em out.txt tudo o que apareceria no console.
+
+• Se java ExemploMyIO < in.txt > out.txt, ele lê de in.txt e escreve em out.txt
+  Copia todo o texto de in.txt em out.txt.
